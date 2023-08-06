@@ -9,3 +9,4 @@
 - add 0xnova1 (2).jpg
 - add 0xnova1 (3).jpg
 - add 0xnova1 (4).jpg
+- add 0xnova2 (1).jpg
