@@ -1,4 +1,4 @@
-# MY NFT ON BLOCKCHAIN
+# MY NFT ON BLOCKCHAINS
 
 - add 0xnova (1).jpg
 - add 0xnova (2).jpg
